@@ -1,9 +1,9 @@
 @font-face {
-  src: url("../fonts/Dopestyle.ttf");
+  src: url("../assets/Dopestyle.ttf");
   font-family: "Dopestyle";
 }
 @font-face {
-  src: url("../fonts/MuseoModerno.ttf");
+  src: url("../assets/MuseoModerno.ttf");
   font-family: "MuseoModerno";
 }
 @keyframes bg-color-infinity {
