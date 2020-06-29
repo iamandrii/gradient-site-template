@@ -100,7 +100,8 @@ body{
   user-select: none;
 }
 .link:hover{
-  background-color: rgba(127, 127, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.8);
+  color: rgba(0, 0, 127, 1);
 }
 .link:last-child{
   margin-right: 0;
