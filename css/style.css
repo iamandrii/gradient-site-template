@@ -79,6 +79,7 @@ body{
   font-family: "Dopestyle", monospace;
   font-size: 5rem;
   text-decoration: none;
+  cursor: default;
 }
 .link{
   display: flex;
