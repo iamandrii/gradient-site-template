@@ -117,6 +117,7 @@ body{
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  margin-bottom: 25px;
 }
 #pfp{
   width: 150px;
