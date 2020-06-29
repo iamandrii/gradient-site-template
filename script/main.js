@@ -1,3 +1,3 @@
 function execute(link){
-  window.open(link, '_blank')
+  window.open(link)
 }
