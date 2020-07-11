@@ -1,5 +1,5 @@
 # Gradient Background Site Template
-demo: [renti.ml](https://renti.ml/)
+demo: [renti.ninja](https://renti.ninja/)
 
 font "Dopestyle" is from [dafont](https://www.dafont.com/theme.php?cat=607)
 
