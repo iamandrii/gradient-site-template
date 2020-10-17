@@ -30,7 +30,7 @@ html, body{
   font-size: 4vw;
 }
 body{
-  background: linear-gradient(135deg, #000, #00f), #000;
+  background: linear-gradient(135deg, #000, #f00), #000;
   background-size: 500% 200%;
   animation-name: bg-color-infinity;
   animation-iteration-count: infinite;
@@ -101,7 +101,7 @@ body{
 }
 .link:hover{
   background-color: rgba(255, 255, 255, 0.8);
-  color: rgba(0, 0, 127, 1);
+  color: rgba(127, 0, 0, 1);
 }
 .link:last-child{
   margin-right: 0;
