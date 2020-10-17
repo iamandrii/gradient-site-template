@@ -129,3 +129,11 @@ body{
   cursor: pointer;
   box-sizing: border-box;
 }
+#head-text{
+  width: 100%;
+  font-family: "MuseoModerno", monospace;
+  color: white;
+  text-align: center;
+  font-size: 2rem;
+  user-select: none;
+}
