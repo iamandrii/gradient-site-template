@@ -24,7 +24,7 @@ body{
   z-index: -2;
   background-origin: content-box;
   background-size: cover;
-  filter: brightness(80%) contrast(1.2);
+  filter: brightness(70%) contrast(1.2) saturate(125%);
 }
 #particles-js{
   position: absolute;
@@ -97,7 +97,12 @@ body{
     font-size: 30vw;
   }
 }
-
+.upper-wrap{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: stretch;
+}
 .img-wrap{
   display: flex;
   flex-direction: row;
@@ -106,13 +111,17 @@ body{
   margin-bottom: 25px;
   min-width: 20vw;
 }
-#head-text{
+#head-text, #toggle-radio{
   width: 100%;
   font-family: "MuseoModerno", monospace;
   color: white;
   text-align: center;
   user-select: none;
   text-shadow: white 0 0 150px;
+}
+.radio-wrap, #toggle-radio{
+  cursor: pointer;
+  z-index: 9999;
 }
 .links-wrap{
   align-self: flex-start;
