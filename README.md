@@ -1,5 +1,5 @@
-# Gradient Background Site Template
-demo: [renti.ninja](https://renti.ninja/)
+# Personal Landing Site Template
+demo: [kaneki.me](https://kaneki.me/)
 
 font "Dopestyle" is from [dafont](https://www.dafont.com/theme.php?cat=607)
 
